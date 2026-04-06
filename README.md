@@ -119,7 +119,7 @@ Responsibilities:
 
 ---
 
-### 👤 Player
+## 👤 Player
 
 Represents a participant in the game.
 
@@ -130,7 +130,7 @@ Each player:
 
 ---
 
-### 🎮 Game Logic
+## 🎮 Game Logic
 
 Controls the flow of the program.
 

@@ -96,7 +96,7 @@ Depending on your implementation, the game may support multiple players and repe
 
 ## 🧠 Core Components
 
-### 🂡 Card
+## 🂡 Card
 
 Represents a single playing card.
 
@@ -108,7 +108,7 @@ This is the basic building block of the entire game.
 
 ---
 
-### 🃴 Deck
+## 🃴 Deck
 
 Represents a full deck of 52 cards.
 

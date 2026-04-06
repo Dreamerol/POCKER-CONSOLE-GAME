@@ -199,3 +199,12 @@ The project is about playing simple poker, so I decided to arrange the functiona
 4. I also have a few validation functions for entering answers, or number of players.  
 5. In the main() function - I use a while loop for the games until the user enters No. I have used bool flags indicating a new game or a tie. I have also a nested for loop when asking every player for (r/c/f).  
 6. If there is a tie - we go back to the beginning of the program: new dealing, new array of dealt cards, and the same algorithm is executed!
+
+   <div align="center">
+
+<img src="https://img.shields.io/badge/Dev%20Environment-Visual%20Studio-blue?style=for-the-badge" alt="Visual Studio" height="40">
+<img src="https://img.shields.io/badge/Language-C++-yellow?style=for-the-badge" alt="C++" height="40">
+<img src="https://img.shields.io/badge/Paradigms-Procedural%20%26%20Modular-orange?style=for-the-badge" alt="Paradigms" height="40">
+<img src="https://img.shields.io/badge/Target-Audience-Students-lightgrey?style=for-the-badge" alt="Target Audience" height="40">
+
+</div>

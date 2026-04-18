@@ -4,13 +4,13 @@
 
 <div align="center">
 
+</div>
+
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/6a3bc3cf9d4d9ddecf05e2a45a86d2ce5466b6da/ZPOCKER.jpg" alt="POCKER" style="width:100%; height:auto; margin-bottom: 20px;">
 
 <img src="https://img.shields.io/badge/Dev%20Environment-Visual%20Studio-blue?style=for-the-badge" alt="Visual Studio" height="40">
 <img src="https://img.shields.io/badge/Language-C++-yellow?style=for-the-badge" alt="C++" height="40">
 <img src="https://img.shields.io/badge/Paradigms-Procedural%20&amp;%20Modular-orange?style=for-the-badge" alt="Paradigms" height="40">
-
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -21,9 +21,6 @@
   <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
   <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
   
-  </p>
-
-
 </div>
 
 ---

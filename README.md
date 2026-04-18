@@ -311,8 +311,24 @@ The project is about playing simple poker, so I decided to arrange the functiona
 5. In the main() function - I use a while loop for the games until the user enters No. I have used bool flags indicating a new game or a tie. I have also a nested for loop when asking every player for (r/c/f).  
 6. If there is a tie - we go back to the beginning of the program: new dealing, new array of dealt cards, and the same algorithm is executed!
 
----
 
+
+
+<h4 align="center" style="font-weight: normal;">
+#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
+#APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
+</h4>
+
+
+
+
+<h3 align="center">
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
+    <strong><em>✨ Click any badge to view project</em></strong>
+  </a>
+</h3>
+
+---
 
 <p align="center">
   
@@ -335,13 +351,7 @@ The project is about playing simple poker, so I decided to arrange the functiona
 
 </div>
 
----
 
-
-<p align="center">
-  🔗 Explore more on my GitHub profile: 
-  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
-</p>
 
 
 

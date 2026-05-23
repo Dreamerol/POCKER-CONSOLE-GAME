@@ -518,12 +518,6 @@ The project is about playing simple poker, so I decided to arrange the functiona
 <br>
 
 
-<p align="center">
-  🔗 Explore more on my GitHub profile: 
-  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
-</p>
-
-
 ---
 
 <p align="center">
@@ -547,3 +541,12 @@ The project is about playing simple poker, so I decided to arrange the functiona
 
 </div>
 
+===
+
+<br>
+
+
+<p align="center">
+  🔗 Explore more on my GitHub profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
+</p>

@@ -542,7 +542,7 @@ The project is about playing simple poker, so I decided to arrange the functiona
 
 ---
 
-<br>
+
 
 
 <p align="center">

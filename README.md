@@ -32,10 +32,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-
-
-
-
 <br>
 
 
@@ -266,7 +262,7 @@ The project is about playing simple poker, so I decided to arrange the functiona
 
 
 
-<br>
+<br><br>
 
 
 

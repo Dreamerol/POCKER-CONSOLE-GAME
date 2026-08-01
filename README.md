@@ -279,6 +279,12 @@ The project is about playing simple poker, so I decided to arrange the functiona
 
 
 
+
+
+
+
+
+
 <div align="center">
 
 <p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
@@ -292,10 +298,16 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 <p style="font-size:10px; opacity:0.7;">
 🔗 Explore on GitHub:
-<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • Software Engineer • AI • ML • GitHub • Dreamerol</a>
+<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • Software Engineer • AI • ML • Dreamerol</a>
 </p>
 
 </div>
+
+
+
+
+
+
 
 
 

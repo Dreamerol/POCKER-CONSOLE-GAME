@@ -1,5 +1,12 @@
 
 
+
+
+
+
+
+
+
 <div align="center">
 
 #  ♠️ <a href="https://github.com/Dreamerol/CARDFOLIO" title="View Poker Console Game in my CARDFOLIO - Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer">𝗣𝗢𝗖𝗞𝗘𝗥 𝗖𝗢𝗡𝗦𝗢𝗟𝗘 𝗚𝗔𝗠𝗘 – 𝗖++</a> ♠️
